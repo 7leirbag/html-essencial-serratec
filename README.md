@@ -1,5 +1,5 @@
 # html-essencial-serratec
-Projeto simnples em html + css + js
+Projeto simples em html + css + js
 Para tirar dúvidas dos alunos de HTML essencial da Serratec 2021
 
 ## favicon
